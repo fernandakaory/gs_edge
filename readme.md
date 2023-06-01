@@ -1,13 +1,12 @@
 # Bomba de água e sensor de umidade
+![logo da farmtech](https://github.com/fernandakaory/gs_edge/assets/126582859/693de95d-6cc7-40fe-924f-4616fb730f5a)
+
 <p align="center">
 <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
 </p>
 Este projeto foi desenvolvido para a entrega da global solution da matéria de Edge Computing and Computer Systems
 
-## Índice
-
-
-## Solução 
+## Solução
 A partir do desafio proposto na Global Solution em parceria com a Kraft Heinz, ONG Caça-Fome e Microsoft, o grupo decidiu direcionar o projeto para a otimização de fazendas verticais para incentivar uma agricultura mais sustentável e colaborar para a diminuição da fome e escassez de alimentos.
 Dessa forma, a solução consiste em uma plataforma com o objetivo de compilar, centralizar os dados importantes para a manutenção de fazendas verticais e supervisão dos dados e da produção, com uma interface fácil e intuitiva.Nela, será possível visualizar e controlar(programar) a temperatura, umidade, fornecimento de água e nutrientes,
 consultar e comparar os dados de produções anteriores e verificar a data estimada, de acordo com as informações captadas, de cada fase do processo produtivo. 
